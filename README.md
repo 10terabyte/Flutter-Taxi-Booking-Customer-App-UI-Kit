@@ -1,3 +1,4 @@
+
 # Flutter Taxi App UI Kit
 Clone this repository. Open the code folder in any IDE you want
 1. Get Google Map API:
@@ -35,6 +36,29 @@ Clone this repository. Open the code folder in any IDE you want
 ```pod install```
 ```pod update```
 	- And run again project
+# Previews
+![enter image description here](https://raw.githubusercontent.com/FullStack1106/Flutter-Taxi-Booking-Customer-App-UI-Kit/main/images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_01.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_03.gif)
+
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_05.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_13.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_15.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_17.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_25.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_37.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_39.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_41.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_49.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_51.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_53.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_61.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_65.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_73.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_75.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_77.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_85.gif)
+![enter image description here]./images/68747470733a2f2f692e696d6775722e636f6d2f793742554b5a6e2e706e67_89.gif)
+
 
 # Features
 **
