@@ -49,3 +49,4 @@ Flutter Taxi App UI Kit communicates with the Google Maps API Directions Service
 - Using Animation Controller
 - Responsive Design to any all device screen
 - Easy to Custom layout
+- Using mvc model, blocs
